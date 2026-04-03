@@ -16,5 +16,8 @@ This repository contains data analytics projects demonstrating skills in:
 ### Power BI Projects
 - Interactive dashboards and reports
 
+### SQL Project
+-Exploring and Cleaning data
+
 ## Purpose
 This repository is part of my preparation for a Junior Data Analyst role.
